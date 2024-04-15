@@ -1,0 +1,5 @@
+cairo-lang
+python-dotenv
+grpcio
+grpcio-tools
+
