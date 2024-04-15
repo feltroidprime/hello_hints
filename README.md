@@ -18,3 +18,10 @@ test server
 ```
 python hints/client.py
 ```
+
+
+bug 
+```
+scarb hints-test
+```
+
